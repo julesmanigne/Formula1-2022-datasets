@@ -6,4 +6,4 @@
 
 ## Source
 
-All these data are obtained from Formula 1 Official [Web Site](https://www.formula1.com/), plus EA & Codemasters F1 Games.
+All these data are obtained from Formula 1 Official [Web Site](https://www.formula1.com/)
